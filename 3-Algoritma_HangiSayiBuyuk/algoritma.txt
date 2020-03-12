@@ -1,0 +1,7 @@
+Adým 2: Say1 deðerini gir.
+Adým 3: Say2 deðerini gir.
+Adým 4: Say3 deðerini gir.
+Adým 5: Say1>Say2 && Say1>Say3 ise ekrana En büyük sayý Say1 yaz.
+Adým 6: Say2>Say1 && Say2>Say3 ise ekrana En büyük sayý Say2 yaz.
+Adým 7: Say3>Say1 && Say3>Say2 ise ekrana En büyük sayý Say3 yaz.
+Adým 8: Bitir.

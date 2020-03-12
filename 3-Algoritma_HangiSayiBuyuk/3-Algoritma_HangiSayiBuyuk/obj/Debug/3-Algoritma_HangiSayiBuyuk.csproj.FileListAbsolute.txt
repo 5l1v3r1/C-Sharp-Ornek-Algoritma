@@ -1,0 +1,6 @@
+c:\users\bl0w\documents\visual studio 2013\Projects\3-Algoritma_HangiSayiBuyuk\3-Algoritma_HangiSayiBuyuk\bin\Debug\3-Algoritma_HangiSayiBuyuk.exe.config
+c:\users\bl0w\documents\visual studio 2013\Projects\3-Algoritma_HangiSayiBuyuk\3-Algoritma_HangiSayiBuyuk\bin\Debug\3-Algoritma_HangiSayiBuyuk.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\3-Algoritma_HangiSayiBuyuk\3-Algoritma_HangiSayiBuyuk\bin\Debug\3-Algoritma_HangiSayiBuyuk.pdb
+c:\users\bl0w\documents\visual studio 2013\Projects\3-Algoritma_HangiSayiBuyuk\3-Algoritma_HangiSayiBuyuk\obj\Debug\3-Algoritma_HangiSayiBuyuk.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2013\Projects\3-Algoritma_HangiSayiBuyuk\3-Algoritma_HangiSayiBuyuk\obj\Debug\3-Algoritma_HangiSayiBuyuk.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\3-Algoritma_HangiSayiBuyuk\3-Algoritma_HangiSayiBuyuk\obj\Debug\3-Algoritma_HangiSayiBuyuk.pdb

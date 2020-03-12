@@ -1,0 +1,6 @@
+c:\users\bl0w\documents\visual studio 2013\Projects\5-Algoritma_KomisyonHesaplama\5-Algoritma_KomisyonHesaplama\bin\Debug\5-Algoritma_KomisyonHesaplama.exe.config
+c:\users\bl0w\documents\visual studio 2013\Projects\5-Algoritma_KomisyonHesaplama\5-Algoritma_KomisyonHesaplama\bin\Debug\5-Algoritma_KomisyonHesaplama.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\5-Algoritma_KomisyonHesaplama\5-Algoritma_KomisyonHesaplama\bin\Debug\5-Algoritma_KomisyonHesaplama.pdb
+c:\users\bl0w\documents\visual studio 2013\Projects\5-Algoritma_KomisyonHesaplama\5-Algoritma_KomisyonHesaplama\obj\Debug\5-Algoritma_KomisyonHesaplama.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2013\Projects\5-Algoritma_KomisyonHesaplama\5-Algoritma_KomisyonHesaplama\obj\Debug\5-Algoritma_KomisyonHesaplama.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\5-Algoritma_KomisyonHesaplama\5-Algoritma_KomisyonHesaplama\obj\Debug\5-Algoritma_KomisyonHesaplama.pdb

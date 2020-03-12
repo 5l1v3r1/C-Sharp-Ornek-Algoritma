@@ -1,0 +1,6 @@
+A1: notV deðerini yaz.
+A2: notF deðerini yaz.
+A3: ort = (notV * 40 / 100) + (notF * 60 /100)
+A4: Eðer ort>45 ise ekrana "Ortalama: ort - Geçti" yaz.
+A5: Eðer ort<45 ise ekrana "Ortalama: ort - Kaldý" yaz.
+A6: Bitir.

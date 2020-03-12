@@ -1,0 +1,10 @@
+A1: malFiyat=0, komisyon=0, kazanc=0, sayac=0 
+A2: sayac = sayac + 1
+A3: malFiyat deðerini yaz.
+A4: Eðer malFiyat < 50 ise A5'e git, Deðilse A6'ya git.
+A5: komisyon = malFiyat * 0.03
+A6: komisyon = malFiyat * 0.02
+A7: kazanc = kazanc + komisyon
+A8: Eðer sayac < 5 ise A2'ye git.
+A9: Ekrana "Toplam Kazanç: kazanc" deðerini yaz.
+A10: Bitir.

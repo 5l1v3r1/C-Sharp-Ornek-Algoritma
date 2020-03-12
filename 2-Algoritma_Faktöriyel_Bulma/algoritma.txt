@@ -1,0 +1,7 @@
+A1: sayi=0, faktoriyel=1, i=1
+A2: sayi deðerini gir.
+A3: faktoriyel = faktoriyel * i
+A4: i = i + 1
+A5: Eðer i<=sayi ise A3'e git.
+A6: faktoriyel deðerini yaz.
+A7: Bitir.

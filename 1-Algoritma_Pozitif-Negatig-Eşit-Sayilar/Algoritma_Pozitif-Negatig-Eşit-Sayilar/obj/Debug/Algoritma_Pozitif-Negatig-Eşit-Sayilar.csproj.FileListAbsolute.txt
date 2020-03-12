@@ -1,0 +1,9 @@
+c:\users\bl0w\documents\visual studio 2013\Projects\Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\bin\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.exe.config
+c:\users\bl0w\documents\visual studio 2013\Projects\Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\bin\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\bin\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.pdb
+c:\users\bl0w\documents\visual studio 2013\Projects\Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\obj\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2013\Projects\Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\obj\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\obj\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.pdb
+C:\Users\bL0w\Documents\Visual Studio 2013\Projects\1-Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\bin\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.exe.config
+C:\Users\bL0w\Documents\Visual Studio 2013\Projects\1-Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\obj\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.exe
+C:\Users\bL0w\Documents\Visual Studio 2013\Projects\1-Algoritma_Pozitif-Negatig-Eşit-Sayilar\Algoritma_Pozitif-Negatig-Eşit-Sayilar\obj\Debug\Algoritma_Pozitif-Negatig-Eşit-Sayilar.pdb

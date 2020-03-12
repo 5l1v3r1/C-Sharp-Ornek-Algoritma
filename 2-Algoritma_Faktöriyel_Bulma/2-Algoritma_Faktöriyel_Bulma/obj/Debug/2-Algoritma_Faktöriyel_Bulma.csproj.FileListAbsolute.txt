@@ -1,0 +1,6 @@
+c:\users\bl0w\documents\visual studio 2013\Projects\2-Algoritma_Faktöriyel_Bulma\2-Algoritma_Faktöriyel_Bulma\bin\Debug\2-Algoritma_Faktöriyel_Bulma.exe.config
+c:\users\bl0w\documents\visual studio 2013\Projects\2-Algoritma_Faktöriyel_Bulma\2-Algoritma_Faktöriyel_Bulma\bin\Debug\2-Algoritma_Faktöriyel_Bulma.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\2-Algoritma_Faktöriyel_Bulma\2-Algoritma_Faktöriyel_Bulma\bin\Debug\2-Algoritma_Faktöriyel_Bulma.pdb
+c:\users\bl0w\documents\visual studio 2013\Projects\2-Algoritma_Faktöriyel_Bulma\2-Algoritma_Faktöriyel_Bulma\obj\Debug\2-Algoritma_Faktöriyel_Bulma.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2013\Projects\2-Algoritma_Faktöriyel_Bulma\2-Algoritma_Faktöriyel_Bulma\obj\Debug\2-Algoritma_Faktöriyel_Bulma.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\2-Algoritma_Faktöriyel_Bulma\2-Algoritma_Faktöriyel_Bulma\obj\Debug\2-Algoritma_Faktöriyel_Bulma.pdb

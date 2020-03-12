@@ -1,0 +1,9 @@
+Deðiþkenler
+X
+
+A1: X deðerini gir.
+A2: Eðer X<0 ise ekrana Negatif yaz.
+A4: Eðer X>0 ise ekrana Pozitif yaz.
+A6: Eðer X=0 ise ekrana Eþittir yaz.
+A8: Sonuc deðerini ekrana yaz.
+A9: Bitir.

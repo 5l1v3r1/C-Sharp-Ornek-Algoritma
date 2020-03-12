@@ -1,0 +1,6 @@
+c:\users\bl0w\documents\visual studio 2013\Projects\4-Algoritma_VizeFinalHesaplama\4-Algoritma_VizeFinalHesaplama\bin\Debug\4-Algoritma_VizeFinalHesaplama.exe.config
+c:\users\bl0w\documents\visual studio 2013\Projects\4-Algoritma_VizeFinalHesaplama\4-Algoritma_VizeFinalHesaplama\bin\Debug\4-Algoritma_VizeFinalHesaplama.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\4-Algoritma_VizeFinalHesaplama\4-Algoritma_VizeFinalHesaplama\bin\Debug\4-Algoritma_VizeFinalHesaplama.pdb
+c:\users\bl0w\documents\visual studio 2013\Projects\4-Algoritma_VizeFinalHesaplama\4-Algoritma_VizeFinalHesaplama\obj\Debug\4-Algoritma_VizeFinalHesaplama.csprojResolveAssemblyReference.cache
+c:\users\bl0w\documents\visual studio 2013\Projects\4-Algoritma_VizeFinalHesaplama\4-Algoritma_VizeFinalHesaplama\obj\Debug\4-Algoritma_VizeFinalHesaplama.exe
+c:\users\bl0w\documents\visual studio 2013\Projects\4-Algoritma_VizeFinalHesaplama\4-Algoritma_VizeFinalHesaplama\obj\Debug\4-Algoritma_VizeFinalHesaplama.pdb
